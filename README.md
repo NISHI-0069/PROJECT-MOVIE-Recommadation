@@ -1,5 +1,4 @@
 # PROJECT-MOVIE-Recommadation
-Here is a **short, clean, human-style README** with *brief explanation of everything* (as you asked):
 
 ---
 
